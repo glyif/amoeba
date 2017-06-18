@@ -7,7 +7,7 @@ amoeba helps devs to store their app settings as environmental variables without
 ## Installing
 ### pip
 ```bash
-pip install amoeba
+pip install -i https://testpypi.python.org/pypi amoeba
 ```
 
 ## Using
