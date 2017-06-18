@@ -35,7 +35,7 @@ JU_DEEP_SECRET=3930f2ee-f48d-457d-b189-68d94c07f58e
 ```
 
 ### export .env variables into env variables
-```
+```python
 # twix-main.py
 import os
 from amoeba import set_env
