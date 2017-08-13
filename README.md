@@ -43,7 +43,7 @@ from amoeba import set_env
 set_env("./.env")
 
 # test printing envs
-print(os.environ.get("SECRET_API")
-print(os.environ.get("TWIX_SECRET")
-print(os.environ.get("JU_DEEP_SECRET")
+print(os.environ.get("SECRET_API"))
+print(os.environ.get("TWIX_SECRET"))
+print(os.environ.get("JU_DEEP_SECRET"))
 
